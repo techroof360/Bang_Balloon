@@ -24,4 +24,4 @@ After each level, the number of balloons increases as well as the speed at which
 
 [Google Play Games achievements]
 
-![Game instructions]
+[Game instructions]
