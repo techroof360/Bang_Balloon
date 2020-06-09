@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pop Balloon</string>
+    <string name="level_label">Nivo:&#160;</string>
+    <string name="score_label">Rezultat:&#160;</string>
+    <string name="play_game">Počnite igru</string>
+    <string name="start_game">Igrajte</string>
+    <string name="instructions">Uputstvo</string>
+    <string name="finish_level">Završili ste nivo </string>
+    <string name="level_start">Počnite nivo</string>
+    <string name="game_instructions">Cilj igrice je puknuti što više balona pre nego što pobegnu. Na početku igrice imate pet života. Nakon svakog nivoa broj balona se povećava kao i brzina kojom se oni pojavljuju. Testirajte svoje reflekse i vidite koliko ste brzi :)</string>
+    <string name="high_score_label">Najbolji rezultat:&#160;</string>
+    <string name="game_over">Igra je završena!</string>
+    <string name="new_high_score_title">Novi najbolji rezultat!</string>
+    <string name="new_high_score_message">Vaš novi najbolji rezultat je: </string>
+    <string name="signed_in">Ulogovani ste!</string>
+    <string name="invite_friends">Podelite</string>
+    <string name="app_id">App Id</string>
+    <string name="achievement_reach_level_3">Level 3</string>
+    <string name="achievement_reach_level_3_without_losing_life">Level up</string>
+    <string name="achievement_reach_level_5">Level 5</string>
+    <string name="achievement_reach_level_5_without_losing_life">Level up</string>
+    <string name="achievement_reach_level_10">Level 10</string>
+    <string name="achievement_reach_level_10_without_losing_life">Level up</string>
+    <string name="achievement_pop_10_balloons">10 Balloons</string>
+    <string name="achievement_pop_50_balloons">50 Balloons</string>
+    <string name="achievement_pop_500_balloons">500 Balloons</string>
+    <string name="achievement_pop_5000_balloons">5000 Balloons</string>
+    <string name="leaderboard_high_scores">High Scores</string>
+    <string name="achievement_invite_friends">Invite Friends</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pop Balloon</string>
+    <string name="level_label">Niveau:&#160;</string>
+    <string name="score_label">But:&#160;</string>
+    <string name="play_game">Jouer au jeu</string>
+    <string name="start_game">Démarrer jeu</string>
+    <string name="instructions">Instructions</string>
+    <string name="finish_level">Vous avez fini le niveau&#160;</string>
+    <string name="level_start">Niveau de départ</string>
+    <string name="high_score_label">Score élevé:&#160;</string>
+    <string name="game_over">Jeu terminé!</string>
+    <string name="new_high_score_title">Nouveau record!</string>
+    <string name="new_high_score_message">Votre nouveau score élevé est:&#160;</string>
+    <string name="game_instructions">Le but du jeu est de faire éclater autant de ballons que possible avant qu\'ils ne s\'échappent. Au début du jeu, vous avez cinq vies. Après chaque niveau, le nombre de ballons augmente ainsi que la vitesse à laquelle ils apparaissent. Alors testez vos réflexes pour voir à quelle vitesse vous êtes :)</string>
+    <string name="signed_in">Signé!</string>
+    <string name="invite_friends">" Partager"</string>
+    <string name="app_id">App Id</string>
+    <string name="achievement_reach_level_3">Level 3</string>
+    <string name="achievement_reach_level_3_without_losing_life">Level up</string>
+    <string name="achievement_reach_level_5">Level 5</string>
+    <string name="achievement_reach_level_5_without_losing_life">Level up</string>
+    <string name="achievement_reach_level_10">Level 10</string>
+    <string name="achievement_reach_level_10_without_losing_life">Level up</string>
+    <string name="achievement_pop_10_balloons">10 Balloons</string>
+    <string name="achievement_pop_50_balloons">50 Balloons</string>
+    <string name="achievement_pop_500_balloons">500 Balloons</string>
+    <string name="achievement_pop_5000_balloons">5000 Balloons</string>
+    <string name="leaderboard_high_scores">High Scores</string>
+    <string name="achievement_invite_friends">Invite Friends</string>
+</resources>

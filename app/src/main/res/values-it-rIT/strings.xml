@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pop Balloon</string>
+    <string name="level_label">Livello:&#160;</string>
+    <string name="score_label">Punto:&#160;</string>
+    <string name="finish_level">Hai finito il livello:&#160;</string>
+    <string name="high_score_label">Punteggio alto:&#160;</string>
+    <string name="new_high_score_message">Il tuo nuovo punteggio più alto è:&#160;</string>
+    <string name="play_game">Gioca</string>
+    <string name="start_game">"Inizia il gioco "</string>
+    <string name="instructions">Istruzioni</string>
+    <string name="level_start">Livello di partenza</string>
+    <string name="game_instructions">L\'obiettivo del gioco è far scoppiare più palloncini possibili prima che scappino. All\'inizio del gioco, hai cinque vite. Dopo ogni livello, il numero di palloncini aumenta così come la velocità che appaiono. Quindi prova i tuoi riflessi per vedere quanto sei veloce :)</string>
+    <string name="game_over">Gioco finito!</string>
+    <string name="new_high_score_title">Nuovo record!</string>
+    <string name="invite_friends">Condividere</string>
+    <string name="signed_in">Registrato in!</string>
+    <string name="app_id">App Id</string>
+    <string name="achievement_reach_level_3">Level 3</string>
+    <string name="achievement_reach_level_3_without_losing_life">Level up</string>
+    <string name="achievement_reach_level_5">Level 5</string>
+    <string name="achievement_reach_level_5_without_losing_life">Level up</string>
+    <string name="achievement_reach_level_10">Level 10</string>
+    <string name="achievement_reach_level_10_without_losing_life">Level up</string>
+    <string name="achievement_pop_10_balloons">10 Balloons</string>
+    <string name="achievement_pop_50_balloons">50 Balloons</string>
+    <string name="achievement_pop_500_balloons">500 Balloons</string>
+    <string name="achievement_pop_5000_balloons">5000 Balloons</string>
+    <string name="leaderboard_high_scores">High Scores</string>
+    <string name="achievement_invite_friends">Invite Friends</string>
+</resources>
